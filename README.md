@@ -1,2 +1,0 @@
-# jull-base-loin
-login
